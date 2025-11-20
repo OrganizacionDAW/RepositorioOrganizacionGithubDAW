@@ -17,3 +17,11 @@ Rol en el equipo: Administrador
 Ramas de trabajo: main, develop y feature_FranGuerrero
 
 Referencias consultadas: La ayuda de creación de Github y copilot para la creación de los documentos.
+
+
+## actualizacion de Diego
+Nombre: Diego
+Usuario GitHub: Patatuela1
+Mi rol: Administrador
+Ramas en la que he trabajado: Feature_Diego, Develop y main
+Referencias consultadas: Foros de ayuda
