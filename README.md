@@ -25,3 +25,17 @@ Usuario GitHub: Patatuela1
 Mi rol: Administrador
 Ramas en la que he trabajado: Feature_Diego, Develop y main
 Referencias consultadas: Foros de ayuda
+
+## Actualizacion de Aymen
+
+Nombre: Aymen
+
+Usuario GitHub: AymenHadane
+
+Mi rol: Desarrollador
+
+Ramas en la que he trabajado: main. develop, feature_Aymen
+
+Referencias consultadas: Manual de git, cheatsheet de github e IA
+
+
